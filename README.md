@@ -1,1 +1,1 @@
-Simple tasks for practicing Python
+Practicing simple tasks in Python
